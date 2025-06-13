@@ -10,15 +10,17 @@ A fun, console-based number guessing game developed in Java. The game involves a
 - Input collection from multiple players
 - Comparison logic to determine winners
 - Multiple winning scenarios (all win)
+- 
   ![AllPlayerWon](AllPlayerWon.png)
 
 
 - (single winner)
 
-  ![PlayerWon](PlayerWOn.png)
+  ![PlayerWon](PlayerWon.png)
 
 
 -Player Lost
+
  ![PlayerLost](PlayerLost.png)
 
 
